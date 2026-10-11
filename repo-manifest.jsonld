@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-pyenv/commit/464180efa7eed7666d4a240fd3fa7390e3450397",
       "git:hexsha": "464180efa7eed7666d4a240fd3fa7390e3450397",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T19:34:34.871073+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-pyenv/commit/ae48885fd1753ed0a369d0e646239277de44a7a1",
